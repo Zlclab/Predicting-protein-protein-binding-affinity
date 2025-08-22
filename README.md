@@ -3,7 +3,7 @@ A DNN-based mixed model using novel integrated interface features for predicting
 
 ## Information Selection
 Dataset PRODIGY dataset.csv
-Code Information selection.ipynb
+\nCode Information selection.ipynb
 ## Feature Pairing
 Dataset PRODIGY dataset.csv
 Code Feature pairing.ipynb
