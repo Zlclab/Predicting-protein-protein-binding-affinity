@@ -2,8 +2,8 @@
 A DNN-based mixed model using novel integrated interface features for predicting protein-protein complexes binding affinity
 
 ## Information Selection
-Dataset PRODIGY dataset.csv
-\nCode Information selection.ipynb
+Dataset PRODIGY dataset.csv  
+Code Information selection.ipynb
 ## Feature Pairing
 Dataset PRODIGY dataset.csv
 Code Feature pairing.ipynb
